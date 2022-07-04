@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "1abbe908bb3bac80",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb4da1fc86102b7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docker/docker的概念.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7dd2a03f597f8c52",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docker/docker的安装.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c8d054bbd57deb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c207bbe76755bfc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "645f0032b19567ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "24931e0d5af781b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288
+  },
+  "right": {
+    "id": "3cdfb5d814cd22c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "39c32bce20c221c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab7ce1f997f58725",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docker/docker的概念.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb4da1fc86102b7f",
+  "lastOpenFiles": [
+    "docker/docker的概念.md",
+    "docker/docker的安装.md",
+    "donglin/其他.md",
+    "donglin/分节点.md",
+    "Kerberos/初识kerberos.md",
+    "yangshuliu/装机.md",
+    "zhangjialin/kafka.md",
+    "zhangjialin/组件.md",
+    "zhangjialin/其他.md",
+    "zhangjialin/ambari.md"
+  ]
+}

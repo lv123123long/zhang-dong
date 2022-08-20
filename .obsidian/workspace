@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "cb4da1fc86102b7f",
+        "id": "c4f823bdfa088ba1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docker/docker的概念.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7dd2a03f597f8c52",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docker/docker的安装.md",
+            "file": "ambari/基本接口.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/docker的概念.md",
+                "file": "ambari/基本接口.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb4da1fc86102b7f",
+  "active": "c4f823bdfa088ba1",
   "lastOpenFiles": [
-    "docker/docker的概念.md",
+    "python/logging/基础认知.md",
+    "python/捕获异常.md",
     "docker/docker的安装.md",
-    "donglin/其他.md",
-    "donglin/分节点.md",
-    "Kerberos/初识kerberos.md",
-    "yangshuliu/装机.md",
-    "zhangjialin/kafka.md",
-    "zhangjialin/组件.md",
-    "zhangjialin/其他.md",
-    "zhangjialin/ambari.md"
+    "ansible/lookup.md",
+    "[python捕获KeyboardInterrupt异常.md",
+    "工具/pycharm/one.md",
+    "clickhouse/XH6.3参数说明.md",
+    "clickhouse/其他.md",
+    "BM_config/磁盘.md",
+    "BM_config/ambari.md"
   ]
 }
